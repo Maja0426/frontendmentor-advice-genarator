@@ -10,3 +10,5 @@ async function sendGetRequest() {
 }
 
 btn.addEventListener('click', sendGetRequest)
+
+sendGetRequest()
